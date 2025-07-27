@@ -1,0 +1,75 @@
+{
+    "metadata": {
+        "input_documents": [
+            "South of France - Cities.pdf",
+            "South of France - Cuisine.pdf",
+            "South of France - History.pdf",
+            "South of France - Restaurants and Hotels.pdf",
+            "South of France - Things to Do.pdf",
+            "South of France - Tips and Tricks.pdf",
+            "South of France - Traditions and Culture.pdf"
+        ],
+        "persona": "Travel Planner",
+        "job_to_be_done": "Plan a trip of 4 days for a group of 10 college friends",
+        "processing_timestamp": "2025-07-27T11:52:46.547105"
+    },
+    "extracted_sections": [
+        {
+            "document": "South of France - Tips and Tricks.pdf",
+            "section_title": "Notebook: Bring a notebook to jot down notes about the wines you taste.",
+            "importance_rank": 1,
+            "page_number": 8
+        },
+        {
+            "document": "South of France - Tips and Tricks.pdf",
+            "section_title": "General Packing Tips and Tricks",
+            "importance_rank": 2,
+            "page_number": 2
+        },
+        {
+            "document": "South of France - Restaurants and Hotels.pdf",
+            "section_title": "Family-Friendly Hotels",
+            "importance_rank": 3,
+            "page_number": 9
+        },
+        {
+            "document": "South of France - Things to Do.pdf",
+            "section_title": "Monaco: Explore the Mus\u00e9e Oc\u00e9anographique and its marine exhibits, including a",
+            "importance_rank": 4,
+            "page_number": 10
+        },
+        {
+            "document": "South of France - Things to Do.pdf",
+            "section_title": "Family-Friendly Activities",
+            "importance_rank": 5,
+            "page_number": 9
+        }
+    ],
+    "subsection_analysis": [
+        {
+            "document": "South of France - Tips and Tricks.pdf",
+            "refined_text": "\u2022 \nNotebook: Bring a notebook to jot down notes about the wines you taste. \n\u2022 \nWater Bottle: Stay hydrated by drinking water between tastings. \n\u2022 \nAdditional Tips: Plan your wine tour route in advance and consider hiring a driver or \njoining a guided tour to avoid drinking and driving. \n \nTips and Tricks for Packing \n\u2022 \nCheck the Weather: Check the forecast before packing to ensure appropriate clothing. \n\u2022 \nMake a Packing List: Create a list to ensure nothing is forgotten. Cross o\ufb00 items as you \npack. \n\u2022 \nUse Packing Cubes: Organize clothes and maximize space. \n\u2022 \nRoll Your Clothes: Save space and reduce wrinkles. \n\u2022 \nPack Dual-Purpose Items: Choose items that serve multiple purposes. \n\u2022 \nWear Bulky Items: Wear bulky items like coats or boots during travel to save suitcase \nspace. \n\u2022 \nPack a Day Bag: Bring a small day bag for daily excursions. \n\u2022 \nLeave Room for Souvenirs: Leave extra space or bring a foldable bag for souvenirs. \n\u2022 \nAdditional Tips: Pack a small travel umbrella, a reus",
+            "page_number": 8
+        },
+        {
+            "document": "South of France - Tips and Tricks.pdf",
+            "refined_text": "General Packing Tips and Tricks \n\u2022 \nLayering: The weather can vary, so pack layers to stay comfortable in di\ufb00erent \ntemperatures. \n\u2022 \nVersatile Clothing: Choose items that can be mixed and matched to create multiple \noutfits, helping you pack lighter. \n\u2022 \nPacking Cubes: Use packing cubes to organize your clothes and maximize suitcase \nspace. \n\u2022 \nRoll Your Clothes: Rolling clothes saves space and reduces wrinkles. \n\u2022 \nTravel-Sized Toiletries: Bring travel-sized toiletries to save space and comply with \nairline regulations. \n\u2022 \nReusable Bags: Pack a few reusable bags for laundry, shoes, or shopping. \n\u2022 \nFirst Aid Kit: Include a small first aid kit with band-aids, antiseptic wipes, and any \nnecessary medications. \n\u2022 \nCopies of Important Documents: Make copies of your passport, travel insurance, and \nother important documents. Keep them separate from the originals. \n\u2022 \nPortable Laundry Kit: A small laundry kit with detergent and a travel clothesline can \nbe handy for longer trips. \n\u2022 \nMult",
+            "page_number": 2
+        },
+        {
+            "document": "South of France - Restaurants and Hotels.pdf",
+            "refined_text": "Family-Friendly Hotels \n\u2022 \nClub Med Opio en Provence (Opio): A family-friendly resort o\ufb00ering a wide range of \nactivities for children and adults, including sports, entertainment, and kids' clubs. The \nbeautiful setting and all-inclusive amenities make it a hassle-free vacation spot. \n\u2022 \nLe Mas de Pierre (Saint-Paul-de-Vence): A luxurious family-friendly hotel o\ufb00ering \nspacious rooms, beautiful gardens, and a variety of activities for children. The elegant \ndecor and attentive service ensure a comfortable stay for families. \n\u2022 \nH\u00f4tel Les Roches Rouges (Saint-Rapha\u00ebl): A family-friendly hotel located on the \nbeach, o\ufb00ering comfortable rooms, a kids' club, and a variety of water sports. The \nbeachfront location and family-oriented amenities make it a great choice for a seaside \nvacation. \n\u2022 \nCh\u00e2teau de Berne (Lorgues): A family-friendly hotel located on a vineyard, o\ufb00ering \nspacious rooms, a kids' club, and a variety of outdoor activities. The picturesque \nsetting and family-friendly fac",
+            "page_number": 9
+        },
+        {
+            "document": "South of France - Things to Do.pdf",
+            "refined_text": "\u2022 \nMonaco: Explore the Mus\u00e9e Oc\u00e9anographique and its marine exhibits, including a \nshark lagoon and touch tanks. \n\u2022 \nDordogne: See ancient cave paintings at prehistoric sites like Lascaux and Rou\ufb03gnac, \nand visit museums dedicated to prehistoric life. \n\u2022 \nMontpellier: Discover the Planet Ocean World, an aquarium and planetarium with \ninteractive exhibits. \n\u2022 \nCarcassonne: Take a guided tour of the medieval citadel and learn about its history \nand architecture. \n\u2022 \nN\u00eemes: Visit the Roman amphitheater and learn about ancient Roman history. \n\u2022 \nArles: Explore the Roman ruins and the Mus\u00e9e de l'Arles Antique, which showcases \nartifacts from the city's past.",
+            "page_number": 10
+        },
+        {
+            "document": "South of France - Things to Do.pdf",
+            "refined_text": "Family-Friendly Activities \nThe South of France o\ufb00ers a variety of activities that are perfect for families with children: \nTheme Parks and Attractions \n\u2022 \nAntibes: Visit Marineland for marine shows and an aquarium. \n\u2022 \nFr\u00e9jus: Cool o\ufb00 at Aqualand water park. \n\u2022 \nVilleneuve-Loubet: Enjoy quirky attractions at Le Village des Fous. \n\u2022 \nMonteux: Spend a day at Parc Spirou, a theme park based on the famous comic book \ncharacter. \n\u2022 \nLa Palmyre: Explore the La Palmyre Zoo, home to a wide variety of animals. \n\u2022 \nCap d'Agde: Have fun at Luna Park, an amusement park with rides and games. \n\u2022 \nToulouse: Visit the Cit\u00e9 de l'Espace, a space-themed science museum with interactive \nexhibits. \nOutdoor Adventures \n\u2022 \nVerdon Gorge: Take a family hike or rent paddle boats to explore the stunning Verdon \nGorge. \n\u2022 \nCamargue Natural Park: Explore wetlands with wild horses and flamingos, and enjoy \nhorseback riding, bird watching, and boat tours. \n\u2022 \nVarious Locations: Try tree-top adventure parks with zip",
+            "page_number": 9
+        }
+    ]
+}
